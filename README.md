@@ -15,7 +15,7 @@
 | ---- | --------- | ----------------------------------------------------------- | -------- |-------- |
 |2019|TIP| [Two-Level Approach for No-Reference Consumer Video Quality Assessment](https://ieeexplore.ieee.org/abstract/document/8742797) | TLVQM |暂无官方代码|
 
-## 图像美学质量评价
+## 图像美学评价
 
 
 | 年份 | 期刊/会议 | 标题                                                         | 提出方法 |
